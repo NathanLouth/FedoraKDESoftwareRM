@@ -1,4 +1,4 @@
-sudo dnf remove akregator kaddressbook kamoso kmahjongg kmail kmines korganizer kpat neochat plasma-welcome
+sudo dnf remove akregator kaddressbook kamoso kmahjongg kmail kmines korganizer kpat neochat plasma-welcome mediawriter kdeconnectd krdc krfb
 
 sudo dnf install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
 
